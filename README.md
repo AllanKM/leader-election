@@ -20,7 +20,7 @@ Make sure you have the following tools installed on your system:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Jpmmdf/leader-election-spring.git
+git clone https://github.com/AllanKM/leader-election-spring.git
 ```
 
 2. Navigate to the project directory:
